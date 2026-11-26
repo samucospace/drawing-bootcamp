@@ -1,0 +1,1348 @@
+{
+  "course_version": "1.0.0",
+  "title": "30-Day Drawing Course",
+  "days": [
+    {
+      "day_number": 1,
+      "week": 1,
+      "week_title": "Line, Form & Perspective",
+      "title": "Confident Mark-Making & Ghosting",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Great drawing starts from the shoulder, not the wrist. Ghosting your stroke above the paper builds muscle memory before the pencil touches down.",
+        "key_points": [
+          "Lock your wrist and pivot from the shoulder for long, straight, energetic strokes.",
+          "Plot two light endpoints, ghost the motion 3 times in the air, then commit in one smooth pass.",
+          "Vary line weight: heavier marks imply shadow or foreground; lighter marks imply light or distance."
+        ],
+        "warmup_drill": "Fill one page with 20 superimposed straight lines between dots, 10 clean C-curves, and 10 smooth S-curves without slowing down mid-stroke.",
+        "concept_images": [
+          {
+            "id": "day01_concept_01",
+            "diagram_id": "line_confidence",
+            "caption": "Shoulder-driven ghosted lines vs. hesitant wrist-drawn 'hairy' lines."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw 12 varied geometric silhouettes and contour profiles using single-pass ghosted lines. Focus on crisp corners and clean line weight shifts toward the shadow side of the sphere.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day01_ref_01",
+            "asset_id": "ref_01_sphere_studio",
+            "title": "Classic Matte Sphere",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["contour", "line weight"]
+          },
+          {
+            "id": "day01_ref_02",
+            "asset_id": "ref_02_cube_2pt",
+            "title": "Rotated Matte Cube",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["straight edges", "2pt"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 2,
+      "week": 1,
+      "week_title": "Line, Form & Perspective",
+      "title": "Circles, Ellipses & Cylinders",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "An ellipse is simply a circle seen in perspective. Its minor axis always aligns with the cylinder's central spine.",
+        "key_points": [
+          "Draw ellipses in one continuous loop from the shoulder, tracing through twice lightly.",
+          "The minor axis splits the ellipse symmetrically and points down the cylinder's center.",
+          "Ellipses widen (higher degree) as they move farther below or above your eye level."
+        ],
+        "warmup_drill": "Draw 3 horizontal rows of ellipses changing from narrow (15°) to wide (60°), marking each minor axis.",
+        "concept_images": [
+          {
+            "id": "day02_concept_01",
+            "diagram_id": "ellipses_perspective",
+            "caption": "Minor axis alignment and ellipse degree widening away from the horizon."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Construct 8 cylinders at varying tilts and eye levels. Draw through the far side of every ellipse lightly so the top and bottom feel grounded in 3D space.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day02_ref_01",
+            "asset_id": "ref_03_cylinder_upright",
+            "title": "Upright Cylinder",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["cylinder", "ellipses"]
+          },
+          {
+            "id": "day02_ref_02",
+            "asset_id": "ref_04_cone_pyramid",
+            "title": "Cone & Cylinder Study",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["ellipses", "base"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 3,
+      "week": 1,
+      "week_title": "Line, Form & Perspective",
+      "title": "The 5 Value Zones & Light on Form",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Value—not outline—makes 2D shapes feel sculptural. Every lit rounded form follows the same predictable 5-zone light logic.",
+        "key_points": [
+          "Separate the light family (highlight + halftone) cleanly from the shadow family (core + reflected + cast).",
+          "The core shadow sits along the terminator where the form turns away from the key light.",
+          "Reflected light inside the shadow must never be brighter than your darkest halftone."
+        ],
+        "warmup_drill": "Create a smooth 5-step value scale from paper white to 90% dark graphite, then shade a small 3-inch sphere.",
+        "concept_images": [
+          {
+            "id": "day03_concept_01",
+            "diagram_id": "five_value_zones",
+            "caption": "Highlight, Halftone, Core Shadow, Reflected Light, and Cast Shadow."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Complete two full value studies of the sphere and cone. Use the Grayscale toggle in the viewer to check value relationships and keep shadow shapes unified.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day03_ref_01",
+            "asset_id": "ref_01_sphere_studio",
+            "title": "5-Zone Studio Sphere",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["value", "core shadow"]
+          },
+          {
+            "id": "day03_ref_02",
+            "asset_id": "ref_04_cone_pyramid",
+            "title": "Lit Cone & Cylinder",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["value", "terminator"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 4,
+      "week": 1,
+      "week_title": "Line, Form & Perspective",
+      "title": "1-Point Perspective & Depth",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "In 1-point perspective, one face of every box stays parallel to the picture plane while depth edges converge to a single vanishing point on the horizon.",
+        "key_points": [
+          "The horizon line always equals the viewer's eye level.",
+          "Verticals remain strictly vertical and horizontals stay parallel to the horizon.",
+          "All receding depth lines converge toward the single Vanishing Point (VP)."
+        ],
+        "warmup_drill": "Draw a horizon line with one center VP and construct 6 transparent boxes above, on, and below eye level.",
+        "concept_images": [
+          {
+            "id": "day04_concept_01",
+            "diagram_id": "perspective_1pt",
+            "caption": "Horizon line, single vanishing point, and receding orthogonal rays."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw the receding architectural colonnade in 1-point perspective. Establish the eye level first, place repeating pillars using diagonal spacing, then shade the shadow planes.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day04_ref_01",
+            "asset_id": "ref_06_arch_1pt",
+            "title": "1-Point Architectural Corridor",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["1-point", "architecture"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 5,
+      "week": 1,
+      "week_title": "Line, Form & Perspective",
+      "title": "2-Point Perspective & Rotated Boxes",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "When a box turns at an angle to you, both sets of horizontal edges recede toward separate left and right vanishing points on the horizon.",
+        "key_points": [
+          "Start by placing the closest vertical corner edge facing the viewer.",
+          "Keep left and right VPs spaced comfortably wide—too close causes fisheye distortion.",
+          "Every vertical remains perpendicular to the horizon line."
+        ],
+        "warmup_drill": "Draw 5 rotating 2-point boxes along a wide page, varying how much of the left vs. right side face is visible.",
+        "concept_images": [
+          {
+            "id": "day05_concept_01",
+            "diagram_id": "perspective_2pt",
+            "caption": "Rotated box converging to VP-Left and VP-Right on the horizon."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Study the rotated studio cube in 2-point perspective, then construct a stacked cluster of 4 interlocking blocks resting on the same ground plane with consistent cast shadows.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day05_ref_01",
+            "asset_id": "ref_02_cube_2pt",
+            "title": "2-Point Studio Cube",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["2-point", "planes"]
+          },
+          {
+            "id": "day05_ref_02",
+            "asset_id": "ref_05_still_life_forms",
+            "title": "Geometric Cluster",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["2-point", "still life"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 6,
+      "week": 1,
+      "week_title": "Line, Form & Perspective",
+      "title": "3-Point Perspective & Dramatic Angles",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Looking sharply up or down tilts verticals toward a third vanishing point above (worm's-eye) or below (bird's-eye) the horizon.",
+        "key_points": [
+          "Use 3-point perspective for monumental scale, skyscrapers, or dramatic camera tilts.",
+          "The third VP sits far above or below the horizon along the viewer's center of vision.",
+          "Subtle convergence looks heroic; extreme convergence feels dizzying."
+        ],
+        "warmup_drill": "Sketch 4 tall monolith boxes from a low worm's-eye angle converging upward to a high 3rd VP.",
+        "concept_images": [
+          {
+            "id": "day06_concept_01",
+            "diagram_id": "perspective_3pt",
+            "caption": "Three vanishing points creating upward convergence for heroic scale."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw the 3-point monolith towers from a low angle. Establish all three vanishing points lightly, carve out recessed ledges, and render crisp architectural shadow planes.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day06_ref_01",
+            "asset_id": "ref_07_arch_3pt",
+            "title": "3-Point Monolith Towers",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["3-point", "worm's eye"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 7,
+      "week": 1,
+      "week_title": "Line, Form & Perspective",
+      "title": "Form Intersections & Primitive Still Life",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Complex objects—from teapots to human heads—are built by combining and intersecting spheres, boxes, cylinders, and cones.",
+        "key_points": [
+          "Draw through overlapping forms so you feel where one volume sits behind or penetrates another.",
+          "Use wrapping contour lines (cross-contours) to show surface curvature.",
+          "Group cast shadows together so forms feel anchored to the same table plane."
+        ],
+        "warmup_drill": "Draw 4 pairs of intersecting primitives (sphere + box, cylinder + cone) with wrap-around intersection seams.",
+        "concept_images": [
+          {
+            "id": "day07_concept_01",
+            "diagram_id": "form_intersections",
+            "caption": "Cross-contour wrapping lines revealing how intersecting forms occupy 3D space."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Week 1 Synthesis: Draw and fully shade the overlapping still-life trio (sphere, cylinder, cube). Focus on accurate proportions, clean overlaps, and unified 5-zone lighting.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day07_ref_01",
+            "asset_id": "ref_05_still_life_forms",
+            "title": "Overlapping Primitive Still Life",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["still life", "synthesis"]
+          },
+          {
+            "id": "day07_ref_02",
+            "asset_id": "ref_01_sphere_studio",
+            "title": "Sphere Value Check",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["value"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 8,
+      "week": 2,
+      "week_title": "Faces & Expressions",
+      "title": "The Loomis Head Construction",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Construct a sphere, slice off the sides, and establish the brow line, centerline, and jaw plane so the head rotates effortlessly in 3D.",
+        "key_points": [
+          "Start with a light, confident sphere representing the cranial mass.",
+          "Slice off roughly 1/6th of each side to form the flat temple planes.",
+          "Wrap the brow line around the equator and drop the jaw wedge from the cross-axis."
+        ],
+        "warmup_drill": "Draw 6 quick 90-second Loomis spheres with temple ellipses, brow lines, and centerlines tilted in different directions.",
+        "concept_images": [
+          {
+            "id": "day08_concept_01",
+            "diagram_id": "loomis_head_steps",
+            "caption": "4-step construction of the Loomis head in 3/4 view."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw 8 Loomis heads tilted at different angles (front, 3/4 up, 3/4 down, profile) without facial features—focus purely on solid planar structure and tilt.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day08_ref_01",
+            "asset_id": "ref_09_loomis_3q_up",
+            "title": "Planar Head — 3/4 Up",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["3/4 view", "looking up"]
+          },
+          {
+            "id": "day08_ref_02",
+            "asset_id": "ref_10_loomis_3q_down",
+            "title": "Planar Head — 3/4 Down",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["3/4 view", "looking down"]
+          },
+          {
+            "id": "day08_ref_03",
+            "asset_id": "ref_08_loomis_front",
+            "title": "Planar Head — Front",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["front view"]
+          },
+          {
+            "id": "day08_ref_04",
+            "asset_id": "ref_11_loomis_profile",
+            "title": "Planar Head — Profile",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["profile"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 9,
+      "week": 2,
+      "week_title": "Faces & Expressions",
+      "title": "Facial Proportions & Landmarks",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "The rule of thirds anchors facial features cleanly on the front plane: hairline to brow, brow to nose base, and nose base to chin.",
+        "key_points": [
+          "Three equal vertical thirds span hairline → brow → bottom of nose → bottom of chin.",
+          "Eyes sit roughly halfway between the top of the skull and the chin, spaced one eye-width apart.",
+          "Ears align cleanly between the brow line and the base of the nose on the side plane."
+        ],
+        "warmup_drill": "Subdivide 3 front and 3 profile head templates into equal thirds and place eye, nose, mouth, and ear landmarks.",
+        "concept_images": [
+          {
+            "id": "day09_concept_01",
+            "diagram_id": "facial_proportions",
+            "caption": "Vertical facial thirds and horizontal eye-width alignment guides."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Using the front and profile planar references, construct 4 proportionally balanced heads with accurate ear, brow, nose-base, mouth-line, and chin placements.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day09_ref_01",
+            "asset_id": "ref_08_loomis_front",
+            "title": "Front Planar Proportions",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["proportions", "thirds"]
+          },
+          {
+            "id": "day09_ref_02",
+            "asset_id": "ref_11_loomis_profile",
+            "title": "Profile Proportions",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["profile", "ear placement"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 10,
+      "week": 2,
+      "week_title": "Faces & Expressions",
+      "title": "Eyes & The Orbital Socket",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Eyes are not flat stickers—they are spheres recessed inside a shadowed bony socket, wrapped by thick upper and lower eyelids.",
+        "key_points": [
+          "Carve the recessed keystone/orbital shadow cavity before placing the eyeball sphere.",
+          "Wrap the upper and lower eyelids around the curvature of the sphere.",
+          "Show eyelid thickness and cast a crisp shadow from the upper lid onto the iris."
+        ],
+        "warmup_drill": "Draw 6 large eyeball spheres at different gazes and wrap upper/lower eyelid ribbons around them.",
+        "concept_images": [
+          {
+            "id": "day10_concept_01",
+            "diagram_id": "eye_orbital_planes",
+            "caption": "Eyelid ribbons wrapping around the spherical eyeball inside the brow socket."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Complete 4 detailed planar and shaded studies of the eye socket, focusing on the transition from the brow ridge down into the orbital shadow and curved lids.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day10_ref_01",
+            "asset_id": "ref_15_features_eye_planes",
+            "title": "Orbital Socket & Eyelids",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["eyes", "planes"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 11,
+      "week": 2,
+      "week_title": "Faces & Expressions",
+      "title": "Nose & Mouth Structure",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Simplify the nose into a 4-plane prism/wedge and wrap the lips around the cylindrical dental barrel of the jaw.",
+        "key_points": [
+          "The nose has a top bridge, two angled side planes, and a shadowed underside plane.",
+          "The mouth wraps around a curved cylinder—the far corner foreshortens in 3/4 view.",
+          "The upper lip usually catches shadow while the lower lip catches top light."
+        ],
+        "warmup_drill": "Draw 5 simple wedge noses and 5 cylindrical mouth barrels from front, 3/4, and worm's-eye angles.",
+        "concept_images": [
+          {
+            "id": "day11_concept_01",
+            "diagram_id": "nose_mouth_planes",
+            "caption": "4-plane wedge nose and lips wrapping the curved dental cylinder."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw 4 studies combining the wedge nose and cylindrical mouth planes. Emphasize the underside shadow of the nose and the core shadow beneath the lower lip.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day11_ref_01",
+            "asset_id": "ref_16_features_nose_mouth",
+            "title": "Wedge Nose & Mouth Barrel",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["nose", "mouth", "planes"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 12,
+      "week": 2,
+      "week_title": "Faces & Expressions",
+      "title": "Dramatic Lighting on the Head",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Lighting direction transforms mood. Organizing the head into two clear value shapes—lit vs. shadow—gives portraits instant sculptural power.",
+        "key_points": [
+          "Rembrandt lighting (45°) leaves a small triangular catchlight on the shadow-side cheek.",
+          "Split lighting (90°) divides the face sharply along the centerline into light and dark.",
+          "Rim lighting carves a bright silhouette edge out of a dark background."
+        ],
+        "warmup_drill": "Draw 3 small thumbnail Loomis heads and block in pure 2-value shadow shapes for Rembrandt, Split, and Rim light.",
+        "concept_images": [
+          {
+            "id": "day12_concept_01",
+            "diagram_id": "lighting_setups",
+            "caption": "Rembrandt 45°, Split 90°, and Back/Rim portrait lighting patterns."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Create three 15-minute value studies comparing Rembrandt, Split, and Rim lighting. Toggle Grayscale in the viewer to verify your light/shadow separation.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day12_ref_01",
+            "asset_id": "ref_12_light_rembrandt",
+            "title": "Rembrandt Studio Lighting",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["rembrandt", "lighting"]
+          },
+          {
+            "id": "day12_ref_02",
+            "asset_id": "ref_13_light_split",
+            "title": "Split 90° Lighting",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["split light", "contrast"]
+          },
+          {
+            "id": "day12_ref_03",
+            "asset_id": "ref_14_light_rim",
+            "title": "Rim-Lit Silhouette",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["rim light", "silhouette"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 13,
+      "week": 2,
+      "week_title": "Faces & Expressions",
+      "title": "Expressions: Squash, Stretch & Tension",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Emotion lives in the eyebrows, eyelids, and cheeks squashing or stretching the underlying facial mask while the rigid skull stays unchanged.",
+        "key_points": [
+          "The cranium and teeth never squash or stretch—only the brows, cheeks, and jaw pivot.",
+          "Joy pushes cheeks up into the lower eyelids; surprise drops the jaw and lifts the brow.",
+          "Anger compresses the inner brow down into the nose bridge."
+        ],
+        "warmup_drill": "Sketch 6 quick expressive thumbnails (joy, surprise, anger, skepticism, calm, sorrow) using simplified brow + mouth masks.",
+        "concept_images": [
+          {
+            "id": "day13_concept_01",
+            "diagram_id": "expression_squash_stretch",
+            "caption": "Jaw pivot and cheek compression driving clear facial expressions."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Use the 3/4 head references as structural armatures to draw 4 expressive character heads (joy, focus, surprise, determination), keeping the underlying Loomis construction solid.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day13_ref_01",
+            "asset_id": "ref_09_loomis_3q_up",
+            "title": "Armature — 3/4 Up",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["expression", "upward tilt"]
+          },
+          {
+            "id": "day13_ref_02",
+            "asset_id": "ref_10_loomis_3q_down",
+            "title": "Armature — 3/4 Down",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["expression", "downward tilt"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 14,
+      "week": 2,
+      "week_title": "Faces & Expressions",
+      "title": "Full Planar Portrait Study",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Combine Loomis construction, proportional thirds, recessed features, and unified 2-value lighting into one complete portrait study.",
+        "key_points": [
+          "Work big-to-small: head silhouette → tilt/thirds → shadow shapes → feature details.",
+          "Squint often to check that dark accents (nostrils, pupils, mouth corners) stay inside the value hierarchy.",
+          "Keep hard edges around focal points (eyes) and softer edges along the jawline and hair."
+        ],
+        "warmup_drill": "Do a 5-minute thumbnail value block-in of the Rembrandt head using only 2 tones before starting the main drawing.",
+        "concept_images": [
+          {
+            "id": "day14_concept_01",
+            "diagram_id": "portrait_values",
+            "caption": "Big-to-small portrait workflow: block-in, shadow map, then focal refinement."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Week 2 Synthesis: Spend the full 45 minutes completing a polished, rendered planar portrait study using the Rembrandt lighting reference.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day14_ref_01",
+            "asset_id": "ref_12_light_rembrandt",
+            "title": "Full Rembrandt Portrait Study",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["portrait", "synthesis"]
+          },
+          {
+            "id": "day14_ref_02",
+            "asset_id": "ref_08_loomis_front",
+            "title": "Structure Reference",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["structure"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 15,
+      "week": 3,
+      "week_title": "Bodies, Anatomy & Movement",
+      "title": "Gesture Drawing & Line of Action",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Gesture is not an outline—it is the energy, rhythm, and balance running through the pose. Capture the whole figure in seconds using sweeping C- and S-curves.",
+        "key_points": [
+          "Find one primary Line of Action flowing from the head through the spine to the weight-bearing foot.",
+          "Draw the action first with long rhythmic curves—never trace contours bead-by-bead.",
+          "Contrast a stretched side against a compressed pinch side to make poses feel alive."
+        ],
+        "warmup_drill": "Draw 10 ultra-fast 30-second stick-and-ribbon gesture lines capturing only spine curve, shoulder tilt, and hip tilt.",
+        "concept_images": [
+          {
+            "id": "day15_concept_01",
+            "diagram_id": "gesture_line_of_action",
+            "caption": "Sweeping C/S-curve line of action with opposing shoulder and hip tilts."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Timed Gesture Interval Session: Run the 60-second Interval Timer in the fullscreen viewer. Each time it chimes, it automatically advances to the next pose—keep your pencil moving continuously!",
+        "timer_mode": "interval",
+        "interval_seconds": 60,
+        "interval_rounds": 20,
+        "reference_images": [
+          {
+            "id": "day15_ref_01",
+            "asset_id": "ref_17_gesture_reach",
+            "title": "Pose 1 — Overhead Reach",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["gesture", "S-curve"]
+          },
+          {
+            "id": "day15_ref_02",
+            "asset_id": "ref_18_gesture_stride",
+            "title": "Pose 2 — Forward Stride",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["gesture", "action"]
+          },
+          {
+            "id": "day15_ref_03",
+            "asset_id": "ref_19_gesture_seated",
+            "title": "Pose 3 — Seated Forward Lean",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["gesture", "seated"]
+          },
+          {
+            "id": "day15_ref_04",
+            "asset_id": "ref_20_gesture_twist",
+            "title": "Pose 4 — Contrapposto Twist",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["gesture", "contrapposto"]
+          },
+          {
+            "id": "day15_ref_05",
+            "asset_id": "ref_21_gesture_lunge",
+            "title": "Pose 5 — Athletic Lunge",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["gesture", "diagonal"]
+          },
+          {
+            "id": "day15_ref_06",
+            "asset_id": "ref_22_gesture_recline",
+            "title": "Pose 6 — Reclining Rest",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["gesture", "reclining"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 16,
+      "week": 3,
+      "week_title": "Bodies, Anatomy & Movement",
+      "title": "The Torso Bean: Ribcage & Pelvis",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Two primary rigid masses—the egg-shaped ribcage and wedge-shaped pelvis—drive almost every twist, bend, and weight shift of the human figure.",
+        "key_points": [
+          "Simplify the ribcage as an upright egg and the pelvis as a compact rounded box/bucket.",
+          "When one side of the waist stretches, the opposite side pinches into soft folds.",
+          "Mark the centerline (sternum to navel) and spinal furrow to show 3D rotation."
+        ],
+        "warmup_drill": "Draw 8 floating 'beans' bending, twisting, and leaning without limbs.",
+        "concept_images": [
+          {
+            "id": "day16_concept_01",
+            "diagram_id": "torso_bean",
+            "caption": "Ribcage ovoid and pelvis block creating pinch and stretch along the waist."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Study the front torso bean and back torso scapulae references. Draw 6 three-quarter torso constructions from multiple angles with clear centerline wrapping.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day16_ref_01",
+            "asset_id": "ref_23_torso_bean",
+            "title": "Torso Bean — Tilt & Twist",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["torso", "bean"]
+          },
+          {
+            "id": "day16_ref_02",
+            "asset_id": "ref_24_torso_back",
+            "title": "Back Torso & Scapulae",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["back", "anatomy"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 17,
+      "week": 3,
+      "week_title": "Bodies, Anatomy & Movement",
+      "title": "Figure Proportions & Landmarks",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Using the head as a modular ruler (7.5 to 8 heads tall) keeps limbs, torso, and center of gravity aligned without stiff measuring.",
+        "key_points": [
+          "Halfway mark of an 8-head standing figure sits right at the hip/pubic bone.",
+          "Elbows align roughly with the waist/navel; wrists reach mid-hip/upper thigh.",
+          "Drop a vertical plumb line from the pit of the neck to check balance over the supporting foot."
+        ],
+        "warmup_drill": "Rule an 8-head vertical grid and map key landmarks (chin, nipples, navel, hip, mid-thigh, knees, ankles).",
+        "concept_images": [
+          {
+            "id": "day17_concept_01",
+            "diagram_id": "figure_8_heads",
+            "caption": "8-head proportional canon and vertical balance plumb line."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw 3 full standing figures (front, contrapposto, and stride) checking your 8-head landmarks and plumb-line weight distribution.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day17_ref_01",
+            "asset_id": "ref_25_figure_standing",
+            "title": "8-Head Standing Figure",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["proportions", "standing"]
+          },
+          {
+            "id": "day17_ref_02",
+            "asset_id": "ref_20_gesture_twist",
+            "title": "Contrapposto Weight Shift",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["contrapposto", "balance"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 18,
+      "week": 3,
+      "week_title": "Bodies, Anatomy & Movement",
+      "title": "Foreshortening & Overlapping Forms",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "When a limb points toward or away from the viewer, its length compresses while overlapping T-junctions and contour ellipses carry all the depth.",
+        "key_points": [
+          "Think in stacked coils/cylinders rather than flat outlines.",
+          "Closer cylinders overlap farther ones with bold T-junction lines.",
+          "Wrap cross-contour ellipses around the arm or thigh to show whether it aims toward or away from you."
+        ],
+        "warmup_drill": "Draw 4 foreshortened Slinky-like cylinder chains aiming directly toward your nose.",
+        "concept_images": [
+          {
+            "id": "day18_concept_01",
+            "diagram_id": "foreshortening_overlap",
+            "caption": "Stacked cylinder rings and T-junction overlaps creating instant depth."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw 4 studies of the foreshortened reaching arm and athletic lunge pose, emphasizing large foreground overlap and compressed limb length.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day18_ref_01",
+            "asset_id": "ref_26_foreshortening_arm",
+            "title": "Foreshortened Arm Cylinders",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["foreshortening", "cylinders"]
+          },
+          {
+            "id": "day18_ref_02",
+            "asset_id": "ref_21_gesture_lunge",
+            "title": "Foreshortened Lunge Pose",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["foreshortening", "lunge"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 19,
+      "week": 3,
+      "week_title": "Bodies, Anatomy & Movement",
+      "title": "Arms & Legs as Tapered Cylinders",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Limbs are rhythmic chains of tapered cylinders with alternating curves—straight vs. curved—creating natural anatomical grace.",
+        "key_points": [
+          "Every limb segment follows the 'straight against curve' rhythm (e.g., straight shin bone vs. curved calf).",
+          "Upper arm and thigh taper down toward narrower elbow and knee joints.",
+          "Use simple block joints so wrists and ankles connect cleanly."
+        ],
+        "warmup_drill": "Draw 6 pairs of upper/lower arms and legs as tapered cylinders with opposing rhythmic curves.",
+        "concept_images": [
+          {
+            "id": "day19_concept_01",
+            "diagram_id": "arm_leg_cylinders",
+            "caption": "Tapered limb cylinders with alternating straight-vs-curve rhythm."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Break down the striding and reaching mannequin poses into clean, shaded tapered cylinders and spherical hinge joints.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day19_ref_01",
+            "asset_id": "ref_18_gesture_stride",
+            "title": "Limb Rhythm — Stride",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["arms", "legs", "rhythm"]
+          },
+          {
+            "id": "day19_ref_02",
+            "asset_id": "ref_17_gesture_reach",
+            "title": "Limb Rhythm — Reach",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["arms", "extension"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 20,
+      "week": 3,
+      "week_title": "Bodies, Anatomy & Movement",
+      "title": "Hands & Feet Simplified",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Hands and feet intimidate beginners only when drawn finger-by-finger. Group them into simple palm boxes, mitten shapes, and wedges first.",
+        "key_points": [
+          "Block the palm as a slightly arched pentagon/box before adding finger cylinders.",
+          "Group the four fingers into a unified mitten silhouette, then split knuckles along gentle arcs.",
+          "Build feet from an ankle cylinder dropping into a triangular wedge + toe box."
+        ],
+        "warmup_drill": "Draw 5 palm-box mittens and 5 triangular foot wedges from different angles in 10 minutes.",
+        "concept_images": [
+          {
+            "id": "day20_concept_01",
+            "diagram_id": "hand_block_construction",
+            "caption": "Palm box, knuckle arc, and segmented cylinder fingers."
+          },
+          {
+            "id": "day20_concept_02",
+            "diagram_id": "foot_wedge_planes",
+            "caption": "Ankle cylinder resting on a triangular arch wedge."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Complete 3 block-construction hand studies and 3 shaded foot wedge studies, plus 2 studies of your own non-drawing hand from life.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day20_ref_01",
+            "asset_id": "ref_27_hand_blocks",
+            "title": "Block Hand Construction",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["hands", "blocks"]
+          },
+          {
+            "id": "day20_ref_02",
+            "asset_id": "ref_28_foot_wedges",
+            "title": "Foot Wedge & Ankle Cylinder",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["feet", "wedges"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 21,
+      "week": 3,
+      "week_title": "Bodies, Anatomy & Movement",
+      "title": "Full Constructed Figure Study",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Unite gesture energy, torso bean volume, 8-head proportions, cylinder limbs, and unified lighting into one finished figure study.",
+        "key_points": [
+          "Minutes 1–5: Gesture line of action + weight balance.",
+          "Minutes 5–20: Torso bean, head tilt, and cylinder limbs.",
+          "Minutes 20–45: Unified shadow family, core shadows, and crisp anatomical accents."
+        ],
+        "warmup_drill": "Do two 2-minute gesture warmups before committing to your 45-minute full constructed figure.",
+        "concept_images": [
+          {
+            "id": "day21_concept_01",
+            "diagram_id": "figure_8_heads",
+            "caption": "Gesture → Structural Volumes → Unified Value Shading."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Week 3 Synthesis: Produce a complete 45-minute shaded figure drawing of the Contrapposto Twist or Seated Forward Lean pose.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day21_ref_01",
+            "asset_id": "ref_20_gesture_twist",
+            "title": "Contrapposto Figure Study",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["figure", "synthesis"]
+          },
+          {
+            "id": "day21_ref_02",
+            "asset_id": "ref_19_gesture_seated",
+            "title": "Seated Figure Alternative",
+            "attribution": "Studio Mannequin (CC0)",
+            "tags": ["figure", "seated"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 22,
+      "week": 4,
+      "week_title": "Landscapes & Composition",
+      "title": "Horizon Placement & Rule of Thirds",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Avoid cutting landscapes cleanly in half. Placing the horizon on the upper or lower third immediately declares whether the sky or land is the star.",
+        "key_points": [
+          "Low horizon (bottom third) celebrates dramatic skies and vertical scale.",
+          "High horizon (top third) emphasizes grounded foreground paths, water, or terrain.",
+          "Place your primary focal landmark near one of the four Rule-of-Thirds intersections."
+        ],
+        "warmup_drill": "Draw 6 tiny 2×3-inch thumbnail frames testing high vs. low horizons with the Grid overlay concept.",
+        "concept_images": [
+          {
+            "id": "day22_concept_01",
+            "diagram_id": "horizon_rule_of_thirds",
+            "caption": "3×3 Rule of Thirds intersections and unequal sky-to-land ratios."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Open the Coastal Headland reference and toggle the 3×3 Composition Grid in the viewer. Create 3 compositional thumbnails, then render one larger balanced landscape.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day22_ref_01",
+            "asset_id": "ref_29_horizon_thirds",
+            "title": "Coastal Headland — Rule of Thirds",
+            "attribution": "Studio Landscape (CC0)",
+            "tags": ["horizon", "rule of thirds"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 23,
+      "week": 4,
+      "week_title": "Landscapes & Composition",
+      "title": "Atmospheric Perspective & Depth Layers",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Air scatters light over distance: far mountain ridges grow lighter, lower in contrast, and softer in edge compared to bold foreground silhouettes.",
+        "key_points": [
+          "Organize landscapes into distinct Foreground, Midground, and Background planes.",
+          "Foreground carries the darkest darks, highest contrast, and sharpest texture.",
+          "Distant ridges compress into light, low-contrast pale silhouettes."
+        ],
+        "warmup_drill": "Paint or shade 4 overlapping ridge strips stepping smoothly from 90% foreground dark to 15% background haze.",
+        "concept_images": [
+          {
+            "id": "day23_concept_01",
+            "diagram_id": "atmospheric_depth",
+            "caption": "Contrast and value compression across foreground, midground, and background."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw the 5-layer mountain valley study. Use the Grayscale toggle to check that each receding ridge steps cleanly lighter without overlapping values.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day23_ref_01",
+            "asset_id": "ref_30_layers_mountains",
+            "title": "5-Layer Mountain Ridges",
+            "attribution": "Studio Landscape (CC0)",
+            "tags": ["depth", "aerial perspective"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 24,
+      "week": 4,
+      "week_title": "Landscapes & Composition",
+      "title": "Skies, Clouds & Soft Edges",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Clouds are weightless 3D puffs obeying the same directional light rules as spheres—lit tops, halftone bellies, and soft lost edges.",
+        "key_points": [
+          "Keep cloud bases flatter in perspective as they recede toward the horizon.",
+          "Group big puff masses first before breaking up smaller wispy edges.",
+          "Leave crisp edges on the sunlit tops and soft lost edges on shadowed undersides."
+        ],
+        "warmup_drill": "Draw 4 puffy cloud silhouettes using soft side-of-pencil shading and kneaded-eraser lifts.",
+        "concept_images": [
+          {
+            "id": "day24_concept_01",
+            "diagram_id": "cloud_value_forms",
+            "caption": "Cumulus clouds treated as overlapping lit spheres with flat perspective bases."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Render two full sky-and-cloud studies focusing on smooth sky value gradation and volumetric cloud lighting above a low horizon.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day24_ref_01",
+            "asset_id": "ref_31_clouds_sky",
+            "title": "Cumulus Cloud Formation",
+            "attribution": "Studio Landscape (CC0)",
+            "tags": ["clouds", "soft edges"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 25,
+      "week": 4,
+      "week_title": "Landscapes & Composition",
+      "title": "Trees & Foliage Massing",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Never draw individual leaves! Treat tree canopies like big rounded clouds of spheres catching directional light and casting deep core shadows.",
+        "key_points": [
+          "Block the entire canopy into 3–5 major overlapping spherical masses.",
+          "Unify the shadow side of the foliage before adding any leaf-cluster texture.",
+          "Leave small 'sky holes' near canopy edges and taper branches as they split."
+        ],
+        "warmup_drill": "Draw 5 simplified tree silhouettes built from 3 overlapping lit spheres and tapered Y-branches.",
+        "concept_images": [
+          {
+            "id": "day25_concept_01",
+            "diagram_id": "foliage_massing",
+            "caption": "Grouping foliage into major lit and shadowed canopy masses before texture."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Draw 3 full studies of the shaded tree canopy reference, keeping individual leaf marks only along the high-contrast light/shadow border.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day25_ref_01",
+            "asset_id": "ref_32_trees_massing",
+            "title": "Foliage Canopy Massing",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["trees", "foliage"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 26,
+      "week": 4,
+      "week_title": "Landscapes & Composition",
+      "title": "Water, Reflections & Shoreline",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Calm water acts like a darkened vertical mirror directly beneath objects, broken only by horizontal ripple strokes.",
+        "key_points": [
+          "Reflections sit vertically straight beneath the object reflecting them.",
+          "Darken sunlit sky reflections slightly and lighten dark land reflections slightly.",
+          "Keep all ripple strokes strictly horizontal—narrow near the shore, wider in the foreground."
+        ],
+        "warmup_drill": "Sketch a simple lakeside ridge and mirror its silhouette vertically downward with broken horizontal ripple gaps.",
+        "concept_images": [
+          {
+            "id": "day26_concept_01",
+            "diagram_id": "water_reflections",
+            "caption": "Vertical reflection alignment broken by horizontal surface ripples."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Complete the Lake Reflection study and the Winding Pathway scene to practice horizontal water planes and S-curve compositional lead-ins.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day26_ref_01",
+            "asset_id": "ref_33_water_reflection",
+            "title": "Calm Lake Shoreline",
+            "attribution": "Studio Landscape (CC0)",
+            "tags": ["water", "reflections"]
+          },
+          {
+            "id": "day26_ref_02",
+            "asset_id": "ref_34_pathway_depth",
+            "title": "Winding S-Curve Path",
+            "attribution": "Studio Landscape (CC0)",
+            "tags": ["lead-in", "depth"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 27,
+      "week": 4,
+      "week_title": "Landscapes & Composition",
+      "title": "Notan & High-Contrast Value Design",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Notan reduces a complex scene to pure black-and-white 2-value design. If a drawing reads well as two shapes, it will hold together at any detail level.",
+        "key_points": [
+          "Turn on Grayscale and squint until midtones disappear into either light or dark.",
+          "Link cast shadows together into bold, sweeping abstract shapes.",
+          "Save pure paper white and deepest black for your focal zone."
+        ],
+        "warmup_drill": "Draw three 2-minute black-and-white Notan thumbnails (no gray!) of the sunlit alleyway.",
+        "concept_images": [
+          {
+            "id": "day27_concept_01",
+            "diagram_id": "notan_value_shapes",
+            "caption": "2-value Notan simplification uniting cast shadows into one bold dark shape."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Create a bold 2-value Notan design of the Sunlit Alleyway, then expand it into a 3-value (Light, Mid, Dark) finished architectural study.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day27_ref_01",
+            "asset_id": "ref_35_notan_street",
+            "title": "Sunlit & Shadow Alleyway",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["notan", "value design"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 28,
+      "week": 4,
+      "week_title": "Landscapes & Composition",
+      "title": "Rocks, Cliffs & Natural Planes",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Rocks obey the exact same planar lighting rules as cubes—sharp fractures, flat sunlit tops, and vertical shadowed faces.",
+        "key_points": [
+          "Treat boulders as angular chipped cubes rather than smooth potatoes.",
+          "Follow geological strata lines wrapping across the planes to show volume.",
+          "Use sharp, angular hatching strokes to convey hard stone texture."
+        ],
+        "warmup_drill": "Sketch 4 angular fractured rock blocks showing distinct top, front, and side value planes.",
+        "concept_images": [
+          {
+            "id": "day28_concept_01",
+            "diagram_id": "rock_planar_fractures",
+            "caption": "Stratified cliff planes constructed like chipped 2-point blocks."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Week 4 Synthesis: Draw the Stratified Rock Cliff Planes, combining bold shadow shapes, planar fractures, and crisp sunlit edges.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day28_ref_01",
+            "asset_id": "ref_36_rocks_canyon",
+            "title": "Stratified Rock Cliff Planes",
+            "attribution": "Studio Render (CC0)",
+            "tags": ["rocks", "planes"]
+          },
+          {
+            "id": "day28_ref_02",
+            "asset_id": "ref_34_pathway_depth",
+            "title": "Winding Landscape Path",
+            "attribution": "Studio Landscape (CC0)",
+            "tags": ["landscape"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 29,
+      "week": 5,
+      "week_title": "Capstone Projects",
+      "title": "Capstone I: Figure in Environment",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Bring together perspective, human scale, and atmospheric depth so a figure feels genuinely placed inside a vast world.",
+        "key_points": [
+          "Place the horizon line carefully: characters standing on flat ground share eye level with the horizon.",
+          "Use dark foreground framing elements to push distant valley layers further back.",
+          "Keep the focal figure crisp and silhouetted against a bright atmospheric background."
+        ],
+        "warmup_drill": "Sketch 3 thumbnail compositions testing figure placement along Rule-of-Thirds intersections.",
+        "concept_images": [
+          {
+            "id": "day29_concept_01",
+            "diagram_id": "capstone_composition",
+            "caption": "Framing a scale figure against atmospheric depth using the Rule of Thirds."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Capstone Part 1: Choose either Traveler Overlooking the Valley or Monumental Archway & Scale Figure and execute a complete, carefully composed 45-minute drawing.",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day29_ref_01",
+            "asset_id": "ref_37_capstone_traveler",
+            "title": "Traveler Overlooking Valley",
+            "attribution": "Studio Capstone (CC0)",
+            "tags": ["capstone", "narrative"]
+          },
+          {
+            "id": "day29_ref_02",
+            "asset_id": "ref_39_capstone_archway",
+            "title": "Monumental Archway & Figure",
+            "attribution": "Studio Capstone (CC0)",
+            "tags": ["capstone", "scale"]
+          }
+        ]
+      }
+    },
+    {
+      "day_number": 30,
+      "week": 5,
+      "week_title": "Capstone Projects",
+      "title": "Capstone II: Master Value & Mood Study",
+      "theory": {
+        "duration_minutes": 15,
+        "summary": "Day 30 celebrates everything you've practiced—confident lines, solid perspective, believable form lighting, and deliberate mood.",
+        "key_points": [
+          "Commit to one strong light source and protect your light vs. shadow value separation.",
+          "Guide the viewer's eye with highest contrast at the focal point and quiet detail elsewhere.",
+          "After finishing, upload your Day 30 sketch and compare it side-by-side with Day 1 in My Sketchbook!"
+        ],
+        "warmup_drill": "Spend 5 minutes planning your value hierarchy (Lightest Light, Midtone, Darkest Dark) on a small thumbnail.",
+        "concept_images": [
+          {
+            "id": "day30_concept_01",
+            "diagram_id": "capstone_lighting_narrative",
+            "caption": "Concentrating highest contrast at the focal point to tell a visual story."
+          }
+        ]
+      },
+      "exercise": {
+        "duration_minutes": 45,
+        "instructions": "Final Capstone Piece: Complete a full 45-minute atmospheric light & mood study of the Sunlit Bust Interior or Dusk Lantern scene. Snap a photo afterward for your Day 1 vs. Day 30 comparison!",
+        "timer_mode": "standard",
+        "interval_seconds": null,
+        "reference_images": [
+          {
+            "id": "day30_ref_01",
+            "asset_id": "ref_38_capstone_studio",
+            "title": "Sunlit Bust & Still-Life Interior",
+            "attribution": "Studio Capstone (CC0)",
+            "tags": ["capstone", "still life", "portrait"]
+          },
+          {
+            "id": "day30_ref_02",
+            "asset_id": "ref_40_capstone_dusk",
+            "title": "Dusk Lantern & Cool Horizon",
+            "attribution": "Studio Capstone (CC0)",
+            "tags": ["capstone", "mood", "lighting"]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "drawing-bootcamp",
+  "version": "1.0.0",
+  "description": "Offline-first 30-day guided drawing course mobile app built with Expo, React Native, and SQLite.",
+  "license": "MIT",
+  "author": "Sam Fraser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samucospace/drawing-bootcamp.git"
+  },
+  "homepage": "https://github.com/samucospace/drawing-bootcamp#readme",
+  "bugs": {
+    "url": "https://github.com/samucospace/drawing-bootcamp/issues"
+  },
+  "keywords": [
+    "expo",
+    "react-native",
+    "typescript",
+    "drawing",
+    "art",
+    "offline-first",
+    "sqlite",
+    "android"
+  ],
+  "main": "expo-router/entry",
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
+    "expo": "~58.0.26",
+    "expo-audio": "~58.0.12",
+    "expo-constants": "~58.0.16",
+    "expo-crypto": "~58.0.8",
+    "expo-document-picker": "~58.0.5",
+    "expo-file-system": "~58.0.14",
+    "expo-font": "~58.0.12",
+    "expo-haptics": "~58.0.8",
+    "expo-image-manipulator": "~58.0.16",
+    "expo-image-picker": "~58.0.10",
+    "expo-keep-awake": "~58.0.4",
+    "expo-linking": "~58.0.17",
+    "expo-notifications": "~58.1.9",
+    "expo-router": "~58.0.32",
+    "expo-sharing": "~58.0.23",
+    "expo-splash-screen": "~58.0.14",
+    "expo-sqlite": "~58.0.18",
+    "expo-status-bar": "~58.0.5",
+    "expo-symbols": "~58.0.5",
+    "expo-web-browser": "~58.1.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-native": "0.88.1",
+    "react-native-gesture-handler": "~3.3.0",
+    "react-native-reanimated": "4.7.1",
+    "react-native-safe-area-context": "~5.11.1",
+    "react-native-screens": "~4.30.1",
+    "react-native-svg": "15.16.0",
+    "react-native-web": "~0.21.4",
+    "react-native-worklets": "0.13.0"
+  },
+  "devDependencies": {
+    "@jest/globals": "^30.5.2",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^26.6.11",
+    "@types/react": "~19.3.0",
+    "jest": "^30.5.2",
+    "ts-jest": "^29.4.15",
+    "typescript": "~6.0.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "generate-assets": "node scripts/generate-assets.mjs",
+    "test": "jest"
+  },
+  "private": true
+}
